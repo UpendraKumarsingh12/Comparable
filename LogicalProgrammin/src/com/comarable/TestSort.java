@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	Collections.sort(list);
 	for(Student s:list) {
 		System.out.println(s);
+		
 	}
 }
 }
